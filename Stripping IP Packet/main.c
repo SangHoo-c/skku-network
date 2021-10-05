@@ -8,7 +8,7 @@
 
 
 #define MAC_ADDR_LEN 6
-#define MAX_PACKET 5
+#define MAX_PACKET 500
 
 
 // PCAP-Header
